@@ -1,5 +1,3 @@
-Usuwasz sobie komendą auta
-
 # ⭕ Usuwanie aut pod komende
 
 ``Wpisujesz komende i po 30 sekundach znika każde auto z mapy poza tymi w których siedzi gracz``
